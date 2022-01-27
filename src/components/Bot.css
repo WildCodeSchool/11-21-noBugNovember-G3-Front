@@ -1,17 +1,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
-.bot{
+.bot {
     display: flex;
-    flex-direction: row;
+    flex-direction: column-reverse;
     position: fixed;
     bottom: 30px;
     z-index: 10000;
     height: auto;
-    width: 100px;
-    margin-bottom: 6rem;
+    margin-left: 35px;
+    width: 90px;
 }
 .bot img {
-    width: 125%;
+    width: 220%;
+    height: max-content;
 }
 
 .chatScreenBot{
@@ -24,6 +25,7 @@
     border-radius: 7px;
     color: rgb(0, 0, 0);
     opacity: 0.8;
+    
 }
 
 
@@ -38,4 +40,5 @@
 }
 #chat {
     font-family: 'Teko', sans-serif;
+    font-size: 23px;
 }
