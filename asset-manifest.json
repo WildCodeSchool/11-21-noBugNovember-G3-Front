@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d48a543c.css",
+    "main.js": "/static/js/main.16bc6530.js",
+    "static/js/787.fd3d59a4.chunk.js": "/static/js/787.fd3d59a4.chunk.js",
+    "static/media/samba.mp3": "/static/media/samba.f3a1e1f7f745c9c3624e.mp3",
+    "static/media/star.mp4": "/static/media/star.6485edb5fc903f6eb24c.mp4",
+    "static/media/thailande.mp3": "/static/media/thailande.713247a31b53f47e13a4.mp3",
+    "static/media/afrique.mp3": "/static/media/afrique.d8d8351ae0efc0cfbed3.mp3",
+    "static/media/italie.mp3": "/static/media/italie.df58529f1f6565aaee43.mp3",
+    "static/media/jamaique.mp3": "/static/media/jamaique.21860a79809214392b9e.mp3",
+    "static/media/usap.mp3": "/static/media/usap.0630e06df8553e7405ba.mp3",
+    "static/media/bot.png": "/static/media/bot.f2e0f42c67a41cae4038.png",
+    "static/media/australie.mp3": "/static/media/australie.793b80f760f1c36e135b.mp3",
+    "static/media/play2.png": "/static/media/play2.616bfb2ed51095e8b293.png",
+    "index.html": "/index.html",
+    "main.d48a543c.css.map": "/static/css/main.d48a543c.css.map",
+    "main.16bc6530.js.map": "/static/js/main.16bc6530.js.map",
+    "787.fd3d59a4.chunk.js.map": "/static/js/787.fd3d59a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48a543c.css",
+    "static/js/main.16bc6530.js"
+  ]
+}
